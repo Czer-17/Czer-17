@@ -1,4 +1,5 @@
-## Hi there 👋
+delet file##
+Hi there 👋
 
 <!--
 **Czer-17/Czer-17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
